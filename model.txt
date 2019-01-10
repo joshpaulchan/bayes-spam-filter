@@ -1,0 +1,3 @@
+rolex,0.0125,0.005
+stock,0.2,0.06
+undervalued,0.1,0.025
